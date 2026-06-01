@@ -1,4 +1,4 @@
-Parallel Zip:
+Parallel Zip
 
 Tassa osassa toteutetaan rinnakkainen versio aiemmasta RLE pakkausohjelmasta. Ohjelman nimi on pzip. Lisaksi mukana on rinnakkainen purkuohjelma punzip.
 
